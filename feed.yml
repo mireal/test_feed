@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-07-03T09:00:00+03:00">
+  <shop>
+      <name>НБС Авто</name>
+      <company>ООО НБС Авто</company>
+      <url>https://nbs-avto.com/</url>
+      <platform>tbank</platform>
+      <categories>
+          <category id="1">Цементовозы</category>
+          <category id="2">Компрессоры</category>
+          <category id="3">Запчасти для цементовозов</category>
+          <category id="4">Запчасти для компрессоров</category>
+
+      </categories>
+      <offers>
+          <offer id="1001">
+              <name>Цементовоз CARSAN 32 м³ (Алюминий)</name>
+              <vendor>Carsan</vendor>
+              <url>https://nbs-avto.com/cementtankers</url>
+              <price>9500000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>1</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bwomijo/c23c72a8-cce0-4887-9813-9834e8c60750/c23c72a8-cce0-4887-9813-9834e8c60750-13927558.jpeg</picture>
+              <description>
+                  <![CDATA[
+                      <p>Год выпуска: 2025. Объем: 32 м³. Вес 4 550 кг (Без компрессора). Компрессор: Bekomsan Est 72 с электродвигателем. Оси: 3 оси BPW (1 подъемная). Назначение: перевозка цемента, муки, извести, сыпучих материалов</p>
+                      <p>Новый цементовоз турецкого производства. С тормозной системой WABCO, качественными осями BPW. Идеален для интенсивных перевозок по России. В наличии на складе в Новороссийске</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="1002">
+              <name>Цементовоз ВАКУУМНЫЙ CARSAN 34 м³</name>
+              <vendor>Carsan</vendor>
+              <url>https://nbs-avto.com/cementtankers</url>
+              <price>8200000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>1</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/cshutgf/501c9e8c-b38f-439f-b3e6-ec4670415999/501c9e8c-b38f-439f-b3e6-ec4670415999-13927686.jpeg</picture>
+              <description>
+                  <![CDATA[
+                      <p>Год выпуска: 2024. Объем: 34 м³. Компрессор: Bekomsan Est 103. Оси: 3 оси (1 подъемная). Назначение: перевозка цемента, муки, извести, сыпучих материалов</p>
+                      <p>Новый цементовоз турецкого производства с вакуумной системой самозагрузки. С тормозной системой WABCO, качественными турецкими осями. Идеален для интенсивных перевозок по России. В наличии на складе в Новороссийске</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="1003">
+              <name>Цементовоз CARSAN 34 м³</name>
+              <vendor>Carsan</vendor>
+              <url>https://nbs-avto.com/cementtankers</url>
+              <price>6000000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>1</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/sumbdic/4f20d77a-7ce9-4c60-bcfb-6a041a97700f/4f20d77a-7ce9-4c60-bcfb-6a041a97700f-13495949.jpeg</picture>
+              <description>
+                  <![CDATA[
+                      <p>Год выпуска: 2024. Объем: 34 м³. Компрессор: без компрессора. Оси: 3 оси (1 подъемная). Назначение: перевозка цемента, муки, извести, сыпучих материалов</p>
+                      <p>Новый цементовоз турецкого производства. С тормозной системой WABCO, качественными турецкими осями. Идеален для интенсивных перевозок по России. В наличии на складе в Новороссийске</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="2001">
+              <name>Компрессор Bekomsan Esinti 102 дизельный</name>
+              <vendor>Bekomsan</vendor>
+              <url>https://nbs-avto.com/page23</url>
+              <price>1350000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>2</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/wziqpss/891b64f4-a9b5-40dc-8682-4a8d7280e427/891b64f4-a9b5-40dc-8682-4a8d7280e427-13895591.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Двигатель: дизельный, аналог DEUTZ. Производительность: 10 200 л/мин</p>
+                      <p>Компрессор для загрузки и выгрузки сыпучих грузов. Автономное решение для работы в полевых условиях. Надежность и высокая производительность.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="2002">
+              <name>Компрессор Bekomsan Esinti 72 электрический</name>
+              <vendor>Bekomsan</vendor>
+              <url>https://nbs-avto.com/page23</url>
+              <price>600000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>2</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/rsyqojj/1d30473e-d464-4a22-b7bb-019fbc69956f/1d30473e-d464-4a22-b7bb-019fbc69956f-13895626.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Производительность: 7 200 л/мин. Двигатель: электрический, 18,5 кВт. Назначение: выгрузка цемента из полуприцепов</p>
+                      <p>Компрессор для загрузки и выгрузки сыпучих грузов. Турецкий поршневой компрессор для профессионального использования. Гарантия 12 месяцев.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="2003">
+              <name>Компрессор Bekomsan Esinti 102 электрический</name>
+              <vendor>Bekomsan</vendor>
+              <url>https://nbs-avto.com/page23</url>
+              <price>620000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>2</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/watrskv/0adf7a76-9ff6-418c-a569-d79eb1d0847d/0adf7a76-9ff6-418c-a569-d79eb1d0847d-13895649.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Производительность: 10 200 л/мин. Двигатель: электрический, 22 кВт. Назначение: выгрузка цемента из полуприцепов. Страна: Турция</p>
+                      <p>Компрессор для загрузки и выгрузки сыпучих грузов. Мощная модель для быстрой выгрузки сыпучих материалов. Полная комплектация, готов к работе.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="2004">
+              <name>Компрессор Bekomsan Esinti 102 без двигателя</name>
+              <vendor>Bekomsan</vendor>
+              <url>https://nbs-avto.com/page23</url>
+              <price>500000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>2</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/rcirqab/d80bfa23-5079-4348-b937-f720ede136b1/d80bfa23-5079-4348-b937-f720ede136b1-13896265.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Производительность: 10 200 л/мин. Двигатель: без двигателя. Назначение: выгрузка цемента из полуприцепов. Страна: Турция</p>
+                      <p>Компрессор для загрузки и выгрузки сыпучих грузов. Мощная модель для быстрой выгрузки сыпучих материалов. </p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="2005">
+              <name>Компрессор Bekomsan Esinti 72 без двигателя</name>
+              <vendor>Bekomsan</vendor>
+              <url>https://nbs-avto.com/page23</url>
+              <price>480000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>2</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hsxycef/a75ff9af-3224-423c-baf8-a76fc5472489/a75ff9af-3224-423c-baf8-a76fc5472489-13896264.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Производительность: 7 200 л/мин. Двигатель: без двигателя. Назначение: выгрузка цемента из полуприцепов. Страна: Турция</p>
+                      <p>Компрессор для загрузки и выгрузки сыпучих грузов. Мощная модель для быстрой выгрузки сыпучих материалов. Полная комплектация, готов к работе.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="2006">
+              <name>Компрессор Bekomsan Esinti 103 электрический</name>
+              <vendor>Bekomsan</vendor>
+              <url>https://nbs-avto.com/page23</url>
+              <price>700000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>2</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/dbhwsdc/042f085c-fa3c-4c6a-a42d-c334653440bb/042f085c-fa3c-4c6a-a42d-c334653440bb-13942527.jpeg</picture>
+              <description>
+                  <![CDATA[
+                      <p>Производительность: 10 200 л/мин. Двигатель: электрический, 22 кВт. Назначение: выгрузка цемента из полуприцепов. Страна: Турция</p>
+                      <p>Компрессор для загрузки и выгрузки сыпучих грузов. Мощная модель для быстрой выгрузки сыпучих материалов. Полная комплектация, готов к работе.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="2007">
+              <name>Компрессор Bekomsan Esinti 103 дизельный</name>
+              <vendor>Bekomsan</vendor>
+              <url>https://nbs-avto.com/page23</url>
+              <price>1500000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>2</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/czymkfx/07b8d513-26d4-480b-83ed-e76c856067e3/07b8d513-26d4-480b-83ed-e76c856067e3-13942532.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Компрессор маятникового типа. Производительность: 10 200 л/мин. Двигатель: дизельный (новый). Назначение: выгрузка цемента из полуприцепов. Страна: Турция</p>
+                      <p>Компрессор для загрузки и выгрузки сыпучих грузов. Автономное решение для работы в полевых условиях. Надежность и высокая производительность.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3001">
+              <name>Вибролента Kuleli (107 м)</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>50000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/uaktsxj/5de2ae63-52d2-4463-844f-443d9d402bd6/5de2ae63-52d2-4463-844f-443d9d402bd6-13891584.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Турецкое качество для бесперебойной работы цементовоза. Устанавливается на пол кузова.</p>
+                      <p>Длина: 107 метров. Назначение: для выгрузки цемента</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3002">
+              <name>Шланг абразивостойкий SEL</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>26000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vvfegks/fc5e0ad7-9025-430a-95cc-3101783cd436/fc5e0ad7-9025-430a-95cc-3101783cd436-13970065.jpeg</picture>
+              <description>
+                  <![CDATA[
+                      <p>Шланг для выгрузки цемента 6 метров
+                        Производитель: SEL
+                        Материал: износостойкая резина
+                        Страна: Турция
+                        Долговечен даже при интенсивной эксплуатации.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3003">
+              <name>Кран шаровой Valftek TS3148</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>40000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/geefunu/e55b47f5-dbb7-412f-bcd6-2252c7827327/e55b47f5-dbb7-412f-bcd6-2252c7827327-13891582.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Тип: шаровой
+                        Материал: нержавеющая сталь
+                        Турецкий кран для цементовозов. Герметичность и долгий срок службы.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3004">
+              <name>Пережимной клапан BKS DN-100</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>45000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/tqzbjld/60462d1b-08c0-45e9-9c05-8e5735c7daca/60462d1b-08c0-45e9-9c05-8e5735c7daca-13896346.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Пережимной клапан для цементовоза. Диаметр 100 мм.  Производитель Bekomsan.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3005">
+              <name>Пневматический регулирующий клапан FMS 1/4"</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>5000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/ahxsdzt/505c9a07-f6e5-46b7-b1e6-60894dd6a57b/505c9a07-f6e5-46b7-b1e6-60894dd6a57b-13896347.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Пневматический регулирующий клапан FMS предназначен для регулировки воздуха  в автоцистернах</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3006">
+              <name>Клапан сброса избыточного давления 1&quot;</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>9000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/jiazixd/8f522363-b418-42f1-9f62-cd55ea95180b/8f522363-b418-42f1-9f62-cd55ea95180b-13970066.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Клапан предохранительный, регулируемый. Предохранительный клапан обеспечивает непревышение заданного безопасного давления в  сосудах под давлением, замкнутых трубопроводных системах.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3007">
+              <name>Клапан сброса избыточного давления 3/4&quot;</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>9000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/uaktsxj/5de2ae63-52d2-4463-844f-443d9d402bd6/5de2ae63-52d2-4463-844f-443d9d402bd6-13891584.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Клапан предохранительный, регулируемый.
+                        Предохранительный клапан обеспечивает непревышение заданного безопасного давления в  сосудах под давлением, замкнутых трубопроводных системах.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3008">
+              <name>Манжета для пневмоклапана</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>14000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/feogchs/c67ac721-d277-45a5-88be-df9d054cd43f/c67ac721-d277-45a5-88be-df9d054cd43f-13970068.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Манжета для пережимного клапана
+                        Материал: износостойкая резина
+                        Страна: Турция
+                        Долговечен даже при интенсивной эксплуатации.</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3009">
+              <name>Манометр Pakkens</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>3500</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/dhgtouq/2edc8714-57e8-4a88-9f17-c94f754236c0/2edc8714-57e8-4a88-9f17-c94f754236c0-13970070.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Манометр 0-4 бара
+                        Гидравлический, диаметр 53 мм
+                        Страна: Турция
+                        Производитель: PAKKENS</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3010">
+              <name>Обратный клапан 40 мм</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>5500</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/gxgrhmd/27d0cf83-ebd2-4938-8720-8c14e9a147bd/27d0cf83-ebd2-4938-8720-8c14e9a147bd-13970073.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Обратный клапан лепестковый. Диаметр: 40 мм</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3011">
+              <name>Обратный клапан 50 мм</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>5500</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <description>
+                  <![CDATA[
+                      <p>Обратный клапан лепестковый. Диаметр: 50 мм</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3012">
+              <name>Обратный клапан 65 мм</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>7500</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/logpiuq/ae976555-b3af-4cf5-9ea3-677fdfbf94c1/ae976555-b3af-4cf5-9ea3-677fdfbf94c1-13970072.jpeg</picture>
+              <description>
+                  <![CDATA[
+                      <p>Обратный клапан лепестковый. Диаметр: 65 мм</p>
+                  ]]>
+              </description>
+          </offer>
+          <offer id="3013">
+              <name>Подушка под компрессор</name>
+              <url>https://nbs-avto.com/page15</url>
+              <price>3000</price>
+              <currencyId>RUR</currencyId>
+              <categoryId>3</categoryId>
+              <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/uaktsxj/5de2ae63-52d2-4463-844f-443d9d402bd6/5de2ae63-52d2-4463-844f-443d9d402bd6-13891584.png</picture>
+              <description>
+                  <![CDATA[
+                      <p>Подушка под компрессор. Материал: износостойкая резина. Страна: Турция. Долговечен даже при интенсивной эксплуатации.</p>
+                  ]]>
+              </description>
+          </offer>
+      </offers>
+  </shop>
+</yml_catalog>
